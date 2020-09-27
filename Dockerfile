@@ -1,1 +1,1 @@
-FROM docker.io/library/redis:6.0.5
+FROM docker.io/library/redis:5.0.9
